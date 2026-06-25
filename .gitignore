@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.zip
+
+# Private, project-specific build scripts — not part of the open-source repo
+build_dashboard.py
+forms_status.sql
+forms_status_norm.sql
